@@ -48,3 +48,4 @@ document.querySelector(".again").addEventListener("click", function () {
   guessNumber.textContent = "?";
   document.querySelector(".guess").value = "";
 });
+

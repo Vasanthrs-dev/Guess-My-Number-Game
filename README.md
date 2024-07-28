@@ -30,6 +30,6 @@ A simple number guessing game built with HTML, CSS, and JavaScript. Players try 
 
 ## Live Demo
 
-Check out the live demo [here](URL-to-live-demo).
+Check out the live demo [here](https://vasanthrs-dev.github.io/Guess-My-Number-Game/).
 
 
